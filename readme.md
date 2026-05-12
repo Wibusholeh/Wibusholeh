@@ -67,8 +67,8 @@ secret: Nangis pas Itadori marah, tapi tetep wudhu abis itu
 
 ## 📊 GitHub Stats (Misi Utama) 📊
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WibuSholeh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WibuSholeh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=WibuSholeh&cc=0d1117&tc=00FFB3&ic=fff&bc=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WibuSholeh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=WibuSholeh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
