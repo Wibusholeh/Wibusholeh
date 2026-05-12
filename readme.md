@@ -142,7 +142,7 @@ Attack on Titan ████████████████████ 100
 
 ## 🌟 Visitor Count 🌟
 
-![Visitor Count](https://profile-counter.glitch.me/WibuSholeh/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=WibuSholeh&style=for-the-badge&color=00FFB3&label=STALKERS+COUNT)
 
 ---
 
